@@ -33,6 +33,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  array[array.length -1]
   binding.pry
+  array[array.length -1]
 end
