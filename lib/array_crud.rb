@@ -35,3 +35,4 @@ end
 def retrieve_last_element_from_array(array)
   array[array.length -1]
   binding.pry
+end
